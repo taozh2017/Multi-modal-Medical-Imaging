@@ -2,6 +2,7 @@
 
 Review
 ------------------------------
+* An overview of multi-modal medical image fusion, Neurocomputing2016 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S092523121630649X).
 
 
 Diagnosis
