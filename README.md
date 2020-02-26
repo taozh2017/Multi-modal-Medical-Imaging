@@ -1,4 +1,4 @@
-# Multi-modal-Medical-Imaging
+# Multi-modal Medical Imaging
 
 
 Diagnosis
